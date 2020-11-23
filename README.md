@@ -13,7 +13,7 @@
 
 ### chmod +x gemailhack.py
 
-### python gemailhack.py
+### python2 gemailhack.py
 
 ### ScreenShot
 
